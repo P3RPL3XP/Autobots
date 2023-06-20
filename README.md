@@ -1,2 +1,1 @@
-
-This is a simple landing page created with html, css & javascript
+#Autobots is a simple landing page created with html, css & javascript.
